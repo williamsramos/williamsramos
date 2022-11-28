@@ -2,7 +2,7 @@
 
 # Bibiografia
 
-Sou formado em Turismo e em telcnologo em Sistema para Internet, tenho experiência em html, css, javacritpt, github e um pouco de php, python, react native e node js
+Sou formado em Turismo e em telcnologo em Sistema para Internet, tenho experiência em html, css, javacritpt, github e um pouco de conhecimento em  php, python, react native e node js
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
