@@ -19,6 +19,9 @@ Sou formado em Turismo e em telcnologo em Sistema para Internet, tenho experiên
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamsramos&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamsramos&repo=nlw-10-copa)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamsramos&repo=projeto-john-wick-baba-yaga)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamsramos&repo=projeto-casa-do-dragao)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamsramos&repo=projeto-senhor-dos-aneis-aneis-de-poder)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
